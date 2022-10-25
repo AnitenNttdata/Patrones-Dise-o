@@ -1,0 +1,13 @@
+package com.nttdata.bootcamp.patront1apanapaula;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class PatronT1ApanapaulaApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(PatronT1ApanapaulaApplication.class, args);
+	}
+
+}
