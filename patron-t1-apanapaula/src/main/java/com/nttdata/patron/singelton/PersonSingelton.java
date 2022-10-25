@@ -41,5 +41,8 @@ public class PersonSingelton {
 
     
     // metodos getter y setter
+	public String getNombre() {	
+		return nombre;
+	}
 
 }
